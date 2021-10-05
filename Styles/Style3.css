@@ -1,0 +1,31 @@
+body
+{
+    background-image: url("/Sources/Savin-NY-Website-Background-Web.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.Parsize
+{
+    font-size: 20px;
+}
+nav li
+{
+    display: inline-block ;
+    padding: 60px 40px;
+    font-size: x-large;
+}
+nav a
+{
+    text-decoration: none;
+}
+.Website_heading
+{
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+}
+#footer
+{
+    text-align: center;
+}
